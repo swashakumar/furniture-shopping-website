@@ -1,0 +1,135 @@
+/* navigation bar */
+#title{
+  background-color: #D8E3E7;
+  font-family: "Roboto";
+}
+.container-fluid{
+  padding: 0.2% 15%;
+}
+.name{
+  font-family: "Gugi";
+  font-size: 2.5rem;
+  color: black !important;
+}
+.nav-item{
+  padding: 0 15px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  color: black !important;
+}
+/* navigation bar ends */
+/* headind */
+.h1-chair{
+  padding: 3% 0;
+  font-family: "Gugi";
+  background-color:#D8E3E7;
+  color: #F29191;
+  text-align: center;
+
+  }
+
+/* img title */
+#img-chair{
+  padding:3% 3% 5% 4.5%;
+  text-align: center;
+  font-family: "Titillium";
+}
+.chair-chair{
+  max-width: 100%;
+}
+/* collection */
+.images-chair{
+  padding: 5% 27%;
+}
+
+.cart ion-icon{
+  vertical-align: bottom;
+  font-size: 20px;
+  padding-right: 5px;
+}
+.cart a{
+  background-color: #D8E3E7;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+
+}
+
+.add-cart{
+  position: absolute;
+  width: 50%;
+  background-color:#D8E3E7;
+  transition: all 0.3s ease-in-out;
+  opacity: 0;
+  cursor: pointer;
+  text-align: center;
+  margin-left: 167px;
+
+}
+.box:hover .cart1,
+.box:hover .cart2,
+.box:hover .cart3,
+.box:hover .cart4{
+  bottom: 50px;
+  opacity: 1;
+  padding: 10px;
+  text-decoration: none;
+}
+.img-h5{
+  padding:2% 45%;
+}
+/* feedback */
+#feedback{
+  text-align: center;
+}
+.feedbackh2{
+  font-family:"Titillium";
+  padding: 6% 0 0 0;
+  text-align:center;
+}
+
+.feeback-img{
+  padding:5% 0;
+}
+.feedback-para{
+  padding:0 0 25% 0;
+}
+.hr{
+  max-width: 10%;
+  border:0;
+  height: 2px;
+  background: #F29191;
+}
+#page{
+  padding:2%;
+  text-align: center;
+}
+.a-page:hover{
+  color: black;
+
+}
+.a-page{
+  text-decoration: none;
+  color:#F29191;
+}
+/* footer */
+#footer{
+  padding: 3% 0 1% 0;
+  text-align: center;
+  background-color: #D8E3E7;
+}
+
+.foot{
+  font-family: "Titillium";
+  padding:1.5% 0;
+}
+.foot:hover{
+  color: #F29191;
+}
+.icon{
+  padding: 3% 1% 1% 1%;
+}
+.icon:hover{
+  color: #F29191;
+}

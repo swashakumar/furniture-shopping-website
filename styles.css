@@ -1,0 +1,122 @@
+/* navigation bar */
+#title{
+  background-color: #e2bcb7;
+  font-family: "Roboto";
+}
+.container-fluid{
+  padding: 0.2% 15%;
+}
+.name{
+  font-family: "Gugi";
+  font-size: 2.5rem;
+  color: black !important;
+}
+.nav-item{
+  padding: 0 15px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  color: black !important;
+}
+/* navigation bar ends */
+
+/* heading */
+#heading{
+  padding:5% 15%;
+  text-align: center;
+}
+.head{
+  padding: 0.5% 0 2% 0;
+  font-family: "Titillium";
+}
+.h1-head{
+  padding-bottom: 3.5%;
+}
+/* heading ends */
+/* carousel */
+.slide{
+  padding-bottom: 3%;
+  max-width: 100%;
+}
+/* carousel ends */
+/* collection */
+#collection{
+  text-align: center;
+}
+.collectionh2{
+  font-family:"Titillium";
+  padding: 0;
+}
+.hr{
+  max-width: 10%;
+  border:0;
+  height: 2px;
+  background: #e2bcb7;
+}
+.collection-img{
+  padding:5% 0;
+}
+.h5-collection{
+  text-decoration: none;
+  color: black;
+  font-family: "Titillium";
+  padding:3% 0 3% 0;
+}
+h5:hover{
+  color: #e2bcb7;
+}
+/* collection ends */
+/* new */
+#new{
+  text-align: center;
+  padding: 3% 0;
+}
+.newh2{
+  font-family:"Titillium";
+  padding: 0;
+}
+.images-new{
+  padding: 5% 27%;
+  height: 270px;
+  width: 350px;
+}
+.img-h6{
+  padding-left: 15%;
+}
+/* feedback */
+#feedback{
+  text-align: center;
+}
+.feedbackh2{
+  font-family:"Titillium";
+  padding: 6% 0 0 0;
+  text-align:center;
+}
+
+.feeback-img{
+  padding:5% 0;
+}
+.feedback-para{
+  padding:0 0 25% 0;
+}
+/* feedback ends */
+/* footer */
+#footer{
+  padding: 3% 0 1% 0;
+  text-align: center;
+  background-color: #ca8a8b;
+}
+
+.foot{
+  font-family: "Titillium";
+  padding:1.5% 0;
+}
+.foot:hover{
+  color: #e2bcb7;
+}
+.icon{
+  padding: 3% 1% 1% 1%;
+}
+.icon:hover{
+  color: #e2bcb7;
+}
